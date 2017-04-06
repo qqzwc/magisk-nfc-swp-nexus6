@@ -13,6 +13,10 @@ These will be created
 
 Should be working on Android 6.0+
 
+#### Known Issues
+
+1. If you enable Wechat NFC, System NFC Service maybe crash
+
 #### Support
 
 Thanks Joseph Liu
